@@ -1,0 +1,27 @@
+Dear Beta Tester, thank you for taking the time to look at my very first game.
+This game aims to fulfill the requirements as originally set out for the
+Single Choice Jam, with only one location where the Single Choice can be made,
+and a limited set of commands available to the player as detailed in the online help.
+
+Some commands are omitted from the provided help (please let me know
+if any of these should be included in the player help; I prefer to keep
+the help text minimal, but if needed I can split it into multiple pages):
+ 
+VERIFY: Verifying the story file.
+VERSION: Requesting the story file version.
+SCRIPT ON: Switching the story transcript on (Beta Testers: Prepend your comments with * or punctuation).
+SCRIPT OFF: Switching the story transcript off.
+AGAIN/G: Disabled; normally repeats the previous command.
+OOPS/O: Disabled; normally corrects a typo in the previous command.
+ 
+I'm interested in any feedback you may have, aside from obvious bugs, such as:
+ 
+- Any default responses that should be rewritten.
+- Any instances of weird or flawed language use (English is not my native language; Dutch is).
+- Regarding the previous point, I try to use US English. Please let me know if I made any mistakes.
+- Your opinion on including the story mode commands in the final release of this game.
+- Your opinion on including "standard" commands as alternatives in this game.
+- Your general impression of this game and suggestions for improvements.
+ 
+Please switch the story transcript on when you try out the game and put your comments in there. Any feedback is very much appreciated! Sincerely yours, Onno.
+
